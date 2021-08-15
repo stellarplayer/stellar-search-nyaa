@@ -1,2 +1,5 @@
 # stellar-search-nyaa
-stellarplayer plugin demo
+
+恒星播放器插件 - nyaa 搜索
+nyaa 是一个面向动漫的种子、磁力搜索引擎，恒星播放器可以通过此插件直接播放（下载）搜索结果（取决于资源热度）
+tips：通过英文关键字搜索会获得更多结果
